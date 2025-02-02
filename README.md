@@ -14,6 +14,14 @@ This repository contains deep learning projects implemented from scratch, focusi
 - Built using NumPy and TensorFlow for comparison.
 - Trained on a sample dataset.
 
+### 3. Recurrent Neural Network (RNN)
+- Applied two different networks to perform automatic rating of a movie.
+- Implemented using Pytorch.
+  
+### 4. Variational Autoencoder (VAE)
+- Training VAE on MNIST.
+- Implemented using Pytorch.
+
 ## Installation
 To run the projects, first clone the repository and install the dependencies:
 
